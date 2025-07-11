@@ -1,0 +1,8 @@
+flask
+sqlalchemy
+PyMySQL
+azure-identity==1.23.0
+azure-keyvault-secrets==4.9.0
+
+#delete in prod
+# python-dotenv
